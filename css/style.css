@@ -260,11 +260,9 @@
   margin-right: 4px;
 }
 
-._no-webp .header__search-btn{
-  background-image: url(../img/icons/search.png); }
-
 .header__search-btn {
   background-position: center;
+  background-image: url(../img/icons/search.png);
   background-repeat: no-repeat;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
